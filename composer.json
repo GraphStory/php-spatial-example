@@ -1,0 +1,21 @@
+{
+    "name": "graphstory/php-spatial-example",
+    "description": "Quick and dirty sample code for using the Neo4j Spatial Plugin with Graph Story.",
+    "homepage": "http://graphstory.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeremy Kendall",
+            "email": "jeremy.kendall@graphstory.com"
+        }
+    ],
+    "support": {
+        "email": "support@graphstory.com"
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~5.2"
+    },
+    "require-dev": {
+        "jeremykendall/debug-die": "*"
+    }
+}
